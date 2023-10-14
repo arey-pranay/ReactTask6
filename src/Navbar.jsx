@@ -11,10 +11,10 @@ function Navbar() {
   useEffect(() => {
     const typewriter = new Typewriter(typewriterRef.current, {
       strings: [
-        "I am a Computer Science Student",
-        "I like web development",
-        "I like working ot",
-        "Keep scrolling!",
+        "I am a CSE student",
+        "I love web development",
+        "I like working out",
+        "Go down to know more!",
       ],
       autoStart: true,
       loop: true,
